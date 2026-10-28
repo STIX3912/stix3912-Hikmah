@@ -57,10 +57,11 @@ https://padlet.com/hikmahnurdin750/hikmah-s-internship-logbook-rhf70hkr6usegl53
 2. Project Description: This project focuses on designing and simulating a secure enterprise network using Cisco Packet Tracer. It implements network segmentation using VLANs, inter-VLAN routing, OSPF dynamic routing, access control lists (ACLs), firewall protection, and IPsec VPN for secure remote connectivity. The project aims to improve network security, control access between departments, and provide reliable communication within an enterprise environment.
 
 ## Submission:
-1. **Final Report:** [Hikmah_Nurdin_STIX3912.pdf](https://github.com/user-attachments/files/33973073/Hikmah_Nurdin_STIX3912.pdf)
+1. **Proposal:** [PROPOSAL - Hikmah_Nurdin 293943.pdf](https://github.com/user-attachments/files/34060383/PROPOSAL.-.Hikmah_Nurdin.293943.pdf)
+2. **Draft Report:** [Draft Report - Hikmah Nurdin - STIX3912.pdf](https://github.com/user-attachments/files/34060389/Draft.Report.-.Hikmah.Nurdin.-.STIX3912.pdf)
+3. **Final Report:** [Hikmah_Nurdin_STIX3912.pdf](https://github.com/user-attachments/files/33973073/Hikmah_Nurdin_STIX3912.pdf)
+4. **Attendance:** [Attendance_Form_April_to_September - Hikmah (signed).pdf](https://github.com/user-attachments/files/33973246/Attendance_Form_April_to_September.-.Hikmah.signed.pdf)
+5. **Practicum Checklist (PRAK03):** [293943_PRAK03_Student Checklist.pdf](https://github.com/user-attachments/files/33973657/293943_PRAK03_Student.Checklist.pdf)
 
-2. **Attendance:** [Attendance_Form_April_to_September - Hikmah (signed).pdf](https://github.com/user-attachments/files/33973246/Attendance_Form_April_to_September.-.Hikmah.signed.pdf)
-
-3. **Practicum Checklist (PRAK03):** [293943_PRAK03_Student Checklist.pdf](https://github.com/user-attachments/files/33973657/293943_PRAK03_Student.Checklist.pdf)
 
 ## Your Comments:
